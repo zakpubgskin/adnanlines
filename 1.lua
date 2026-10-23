@@ -858,7 +858,7 @@ local MasterLoginUI = (function()
                 add(buyBarTrim, 26, 140, 3, 24, 6)
 
                 local buyText = make("TextBlock", data.container)
-                buyText:SetText("BUY KEY: Telegram @Zakarya_OP  |  WhatsApp: +923192530306")
+                buyText:SetText("BUY KEY: Telegram @AdnanOp_3")
                 setTextStyle(buyText, 11, color(1.0, 0.90, 0.40, 1.0))
                 visibility(buyText, passive)
                 add(buyText, 36, 144, W - 72, 18, 7)
@@ -7919,7 +7919,7 @@ local function ShowLexusVIPMenu()
 
         local function Step_SelectLanguage()
             Msg.Show(2, "AdnanOp_3 - @AdnanOp_3",
-                "AdnanOp_3 CHANNEL\nHACK FILE CHANNEL JOIN\nhttps://t.me/AdnanOp_3\nOwner ---> @Zakarya_OP",
+                "AdnanOp_3 CHANNEL\nHACK FILE CHANNEL JOIN\nhttps://t.me/AdnanOp_3\nOwner ---> @AdnanOp_3",
                 function()
                     _G.LexusLang = "EN"
                     Step_Welcome()
